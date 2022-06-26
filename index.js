@@ -38,6 +38,12 @@ const questions = [{
     type: 'input',
     name: 'computer',
     message: 'How does another person use this code on their own computer'
+},
+{
+    type: 'list',
+    name: 'license',
+    message: 'What license does your readme file generator use? (Choose from the following list)',
+    choices: ['MIT', 'GNU', 'Apache', 'ISC']
 }
 ];
 
