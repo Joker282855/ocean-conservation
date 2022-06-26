@@ -37,7 +37,7 @@ const questions = [{
 {
     type: 'input',
     name: 'computer',
-    message: 'How does another person use this code on their own computer'
+    message: 'How does another person install this reademe generator onto their own computer'
 }
 ];
 
