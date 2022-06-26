@@ -23,6 +23,21 @@ const questions = [{
     type: 'input',
     name: 'goal',
     message: 'What goals do you hope to reach with your project'
+},
+{
+    type: 'input',
+    name: 'intention',
+    message: 'How do you want other people to use your project'
+},
+{
+    type: 'input',
+    name: 'application',
+    message: 'How do you want other poeple to use the application for the readme file'
+},
+{
+    type: 'input',
+    name: 'computer',
+    message: 'How does another person use this code on their own computer'
 }
 ];
 
