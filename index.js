@@ -54,6 +54,20 @@ const questions = [{
     type: 'input',
     name: 'tested',
     message: 'What tests did you do to make sure the readme file was generated correctly?'
+},
+{
+    type: 'input',
+    name: 'profile',
+    message: 'What is your github username?'
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address'
+},
+{
+    type: 'input',
+    name: ''
 }
 ];
 
