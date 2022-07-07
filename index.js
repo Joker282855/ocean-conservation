@@ -21,11 +21,6 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'goal',
-    message: 'What goals do you hope to reach with your project?'
-},
-{
-    type: 'input',
     name: 'intention',
     message: 'How do you want other people to use your project?'
 },
@@ -66,7 +61,7 @@ const questions = [{
 function writeToFile(fileName, data) {
 
     fs.writeFile(fileName, data, function(err) {
-        console.log(fileNmae)
+        console.log(fileName)
         console.log(data)
             if (err) {
                 return console.log(err)
@@ -84,6 +79,5 @@ function init() {
             console.log(data);
         })
 }
-
 // Function call to initialize app
 init();
