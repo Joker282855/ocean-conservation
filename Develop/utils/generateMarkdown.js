@@ -23,7 +23,30 @@ function generateMarkdown(data) {
   ${data.intention}
 
   # Table of Contents:
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[Contributing](#contributing)
+  -[Tests](#tests)
+  -[Questions](#questions)
+
+  # Installation:
+  The steps that need to be taken to install this README generator onto your computer are listed below:
+  ${data.software}
+  ${data.computer}
   
+  # Usage
+  ${data.education}
+  ${data.file}
+
+  # License
+  The license used with this application is ${data.license}
+
+  # Contributing
+  To contribute to my webiste and the application follow the advice listed below:
+  ${data.contribution}
+  ${data.application-tribute}
+
+  # Tests
 
 `;
 }

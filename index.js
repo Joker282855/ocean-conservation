@@ -26,13 +26,23 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'application',
-    message: 'How do you want other poeple to use the application for the readme file?'
+    name: 'software',
+    message: 'What software do people need to download to install the code onto their computer?'
 },
 {
     type: 'input',
     name: 'computer',
-    message: 'How does another person use this code on their own computer?'
+    message: 'How does another person install this code on their own computer?'
+},
+{
+    type: 'input',
+    name: 'education',
+    message: 'How should your website be used by other people?'
+},
+{
+    type: 'input',
+    name: 'file',
+    message: 'How should others use the code to generate their own README files?'
 },
 {
     type: 'list',
@@ -67,7 +77,8 @@ const questions = [{
 },
 {
     type: 'input',
-    name: ''
+    name: 'phone',
+    message: 'What is your phone number'
 }
 ];
 
