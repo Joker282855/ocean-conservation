@@ -47,6 +47,13 @@ function generateMarkdown(data) {
   ${data.application-tribute}
 
   # Tests
+  ${data.tested}
+
+  # Works Shown
+  The link to my github profile is https://github.com/${data.profile}
+
+  # Contact
+  I am usually busy working from 9:00 a,m. to 5:00 p.m. and reserve two hours after work to check if someone has reached out to me. The different ways a person can reach me will be through my email or phone number.
 
 `;
 }
