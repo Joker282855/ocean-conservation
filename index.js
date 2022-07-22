@@ -57,7 +57,7 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'application-tribute',
+    name: 'application',
     message: 'How should others share your readme application with others?'
 },
 {

@@ -44,7 +44,7 @@ function generateMarkdown(data) {
   # Contributing
   To contribute to my webiste and the application follow the advice listed below:
   ${data.contribution}
-  ${data.application-tribute}
+  ${data.application}
 
   # Tests
   ${data.tested}
