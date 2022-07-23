@@ -1,42 +1,46 @@
 
-  # Badge: Apache
+  # Badge: GNU
 
-  # Title: Conserving Americans Oceans
+  # Title: Ocean Conservation
 
   # Description:
-  I began this project because the oceans of earth are constnatly polluted by chemicals and other materials that harm the fish inside them. This problem has been going on for years and continues to be a consistent threat to marine life accross the globe. My hope with this project is to bring about a positive change and help our oceans become cleaner and safer.
-  I hope that pepole are educated when they read my website and are inspired to enact a change with their recycling habits in order to keep the oceans as clean as possible. A non polluted ocean makes it so that the fish and other marine life can be used as a sustainable resource for a longer period of time without being endangered. People who take my message to heart will preserve the ocean's precious ecosystem and keep it healthy. 
+  I began this project to address the problem of people polluting our oceans by constantly dumping plastics and other harmful chemicals in the oceans. Marine life in the ocean can be devastated by the harmful affects of platics choking them or restricting their movement. It is time that the human race treat our oceans with better care and recycle properly. 
+  undefined
+  I want others to use this project to educate themselves on the topic of keeping our oceans clean and have their recycling habits change for the better. 
 
   # Table of Contents:
   -[Installation](#installation)
   -[Usage](#usage)
+  -[License](#license)
   -[Contributing](#contributing)
   -[Tests](#tests)
   -[Questions](#questions)
 
   # Installation:
   The steps that need to be taken to install this README generator onto your computer are listed below:
-  The software people need to have downloaded onto their computer are Visual Studio Code, Gitbash, and Github. You can find the websites to download thm onto your computer by typing the names of the software in a google search. Make sure to download the version that mathces the type of computer you have. 
-  The first step a person needs to do to download the code onto their computer is to create a respostiory on their github account so they can clone my code onto their repository. The code for my readme file geenrator can be found on my personal github account. The link to my github account will be listed in the questions section fo the redme file. Next step is to click the green code button at the top right corner of my repsotiory for the redme file generator and make sure to choose the https option. The last step is to open Visual Studio Code and type the command git clone into your computer with the link following after the words git clone. This should download the code onto your computer. 
+  The software people need to have on their computer is Visual Studio Code, Gitbash, and Github. You can do a google search to find the websites where the software can be downlaoded. Make sure to doenload the version that matches your computer.
+  A person can install this code onto their computer by creating a repository on their personal github account. The next step is to clong the code for the Readme file generator from my repostiory onto the repsitory they just created. To do this he or she needs to click the green code button at the top right corner of my repository and click the https option. After choosing the https option he or she needs to type the command git clone in their Visual Studio Codes command line with the stuff from the https option coming after the command. This will download the code into his or hers repository and onto his or hers computer.
   
   # Usage
-  My website should be used as an educational source for people to learn more about disposing of their recyclables properly. The website should also be shared with their friends and associates so that it can gain traction and gian peopularity. The more people that see my website the better chance there will be of the ocean staying cleaner at a more consistent rate. 
-  My code is meant to be the starting point for any coder who is generating their own readme file for one of their projects. Any changes they want to make to my code after downlading it is totally fine with me. Any readme file that a person makes should reflect the project they are doing. 
+  As mentioned above my website should be used as an educational resource where poeople can learn how to recycle their plastics proplerly. I hope that people who read my wesite will be motivated to dispose of plastic materials a little better. My website should ablso be shared with others so it can gain traction and popularity.
+  People have my persmission to taylor this code to reflect the projects they are doing on their own. A Readme that is generated needs to reflect the project that it is for. 
 
   # License
-  The license used with this application is Apache
+  The license used with this application is GNU
 
   # Contributing
   To contribute to my webiste and the application follow the advice listed below:
-  If others want to make contributions to my website they need to get in contact with me. My email address and phone number will be listed in the questions section below the link to my github account. They can notify me of any changes they think would be important to make to the readme file that is generated by my code. The collaboration is a team effort which means I will listen to the suggestions they make in order to improve the website. 
-  I am okay with people sharing the code to my readme file generator with other so they can benefit from looking at my code. This code is meant to be both educational and modified to meet the needs for those who are creating readme files for their own personal projects. 
+  People can make contributions to my website by becoming group members on this project. To do that he or she needs to go to my repository for this project and send me a notification that they want to colloborate with me on this project. After he or she becomes a collaborator they can work on it on their onw time by creating his or hers own branch and meeting with me to discuss the changes. 
+  People can help others download the code onto their own computers. A person who helps others download this code should encourage them to learn from it and modify the code to reflect their own projects. 
 
   # Tests
-  The only test I ran for this readme file generator typing node index.js to make the questions run and get the readme file generated. The other test I had in place was with the function that creates the readme file by using the consol.log method to check for errors. 
+  The tests I did was by first typing node index.js to make sure that the questions ran smoothly. The ohter test we have was using the console.log method to check for errors when the information from the questions was answered. 
 
-  # Works Shown
-  The link to my github profile is https://github.com/Joker282855
+  # Questions
+  The link to my github profile is https://github.com/Joker282855.
+  My email address is jtjackson325@gmail.com.
+  My phone number is 8014008251.
 
-  # Contact
-  I am usually busy working from 9:00 a,m. to 5:00 p.m. and reserve two hours after work to check if someone has reached out to me. The different ways a person can reach me will be through my email or phone number.
+  I usally work my professional job from 9:00 a.m. to 5:00 p.m. I would be free anytime after that if you need to contact me. I am happy to collaborate with anyone that wants to help me impprove my website and my code.
+  Learning from others Is what helps a person grow and become a better coder overall. I look forward to colloboarating with other people soon. 
 
