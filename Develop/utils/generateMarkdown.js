@@ -19,7 +19,6 @@ function generateMarkdown(data) {
 
   # Description:
   ${data.reason}
-  ${data.purpose}
   ${data.intention}
 
   # Table of Contents:

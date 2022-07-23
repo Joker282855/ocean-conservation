@@ -16,11 +16,6 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'purpose',
-    message: 'What is the purpose behind your project?'
-},
-{
-    type: 'input',
     name: 'intention',
     message: 'How do you want other people to use your project?'
 },
