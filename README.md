@@ -30,7 +30,7 @@
 
   # Contributing
   To contribute to my webiste and the application follow the advice listed below:
-  People can make contributions to my website by becoming group members on this project. To do that he or she needs to go to my repository for this project and send me a notification that they want to colloborate with me on this project. After he or she becomes a collaborator they can work on it on their onw time by creating his or hers own branch and meeting with me to discuss the changes. 
+  People can make contributions to my website by becoming group members on this project. To do that he or she needs to go to my repository for this project and send me a notification that they want to colloborate with me on this project. After he or she becomes a collaborator they can work on it on their own time by creating his or hers own branch and meeting with me to discuss the changes. 
   People can help others download the code onto their own computers. A person who helps others download this code should encourage them to learn from it and modify the code to reflect their own projects. 
 
   # Tests
